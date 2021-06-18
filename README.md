@@ -2,6 +2,12 @@
 
 If you are just getting started with React, you are probably using create-react-app as your toolchain. Create react App gives you the following folder structure.
 
+<img src="/assets/img/first.png" height="300" width="200">
+
+<img src="/assets/img/second.png" height="300" width="200">
+
+<img src="/assets/img/third.png" height="300" width="200">
+
 
 ## Hava Multiple Router
 React Router is a standard routing library for React. I'm set mulple route in this folder structure
@@ -19,6 +25,7 @@ Redux-Saga is a library that aims to make application side effects (i.e. asynchr
 
 **Note: this is a for practice purpose not for your own use!**
 
-### Command for installation
-npm install
-npm start
+## Command for installation
+
+### `npm install`
+### `npm start`
