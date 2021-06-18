@@ -2,11 +2,11 @@
 
 If you are just getting started with React, you are probably using create-react-app as your toolchain. Create react App gives you the following folder structure.
 
-<img src="/assets/img/first.png" height="300" width="200">
+<img src="/public/assets/img/first.png" height="400" width="300">
 
-<img src="/assets/img/second.png" height="300" width="200">
+<img src="/public/assets/img/second.png" height="400" width="300">
 
-<img src="/assets/img/third.png" height="300" width="200">
+<img src="/public/assets/img/third.png" height="400" width="300">
 
 
 ## Hava Multiple Router
