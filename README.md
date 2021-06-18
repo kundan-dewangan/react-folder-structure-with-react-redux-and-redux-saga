@@ -1,6 +1,6 @@
 # Reactjs folder structure with react-redux and redux-saga
 
-If you are just getting started with React, you are probably using create-react-app as your toolchain. Create react App gives you the following folder structure.
+If you are just getting started with React, you are probably using create-react-app as your toolchain. After Create react App make the following folder structure.
 
 <div style="display: flex">
 
@@ -13,8 +13,7 @@ If you are just getting started with React, you are probably using create-react-
 </div>
 
 ## Hava Multiple Router
-React Router is a standard routing library for React. I'm set mulple route in this folder structure
-
+React Router is a standard routing library for React, we're building a browser-based application, we can use two types of router from the React Router. I'm set mulple route in this folder structure
 
 ## Authentication with API 
 Anthentication using json placeholder API
