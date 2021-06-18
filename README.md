@@ -2,12 +2,15 @@
 
 If you are just getting started with React, you are probably using create-react-app as your toolchain. Create react App gives you the following folder structure.
 
-<img src="/public/assets/img/first.png" height="400" width="300">
+<div style="display: flex">
 
-<img src="/public/assets/img/second.png" height="400" width="300">
+<img src="/public/assets/img/first.png" height="400" width="auto">
 
-<img src="/public/assets/img/third.png" height="400" width="300">
+<img src="/public/assets/img/second.png" height="400" width="auto">
 
+<img src="/public/assets/img/third.png" height="400" width="auto">
+
+</div>
 
 ## Hava Multiple Router
 React Router is a standard routing library for React. I'm set mulple route in this folder structure
