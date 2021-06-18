@@ -2,7 +2,7 @@ import React from 'react';
 import { connect } from "react-redux";
 import { logoutUser } from "../../../redux/actions";
 import { useHistory } from 'react-router-dom';
-import { Row, Col, Card, Container, Button } from "reactstrap";
+import { Row, Col, Container, Button } from "reactstrap";
 
 import DashboardComponent from '../../../components/dashboard/DashboardComponent'
 function Dashboard({
