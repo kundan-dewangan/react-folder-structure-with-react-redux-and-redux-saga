@@ -31,3 +31,9 @@ Redux-Saga is a library that aims to make application side effects (i.e. asynchr
 
 ### `npm install`
 ### `npm start`
+
+
+
+## Email And Password
+<b>Email</b> : abcd@gmail.com 
+<b>Password</b> : abcd1234
